@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "7e25b4bb431323a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c980e4f5c775c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02200c6247e5b13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Specialized Domain/5. The Blue Team Perspective.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. The Blue Team Perspective"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df426d87f953ae7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "130b9cfc02cb3789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61548bfd0f8e66d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d79b7b73926904b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0312f23984f3a1c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.70238876342773
+  },
+  "right": {
+    "id": "0fc98cdbcc496305",
+    "type": "split",
+    "children": [
+      {
+        "id": "89ced81e0df66925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d3a9d1c81f2f09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "13. OWASP Top 10 (2025).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9af4b6c8f8919c21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9.  Burp Suite.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "64fb6db3de51edea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46e49ea61b0cc7fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95161232372e6dde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9.  Burp Suite.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "02200c6247e5b13a",
+  "lastOpenFiles": [
+    "13. Specialized Domain/6. DevSecOps Basics.md",
+    "13. Specialized Domain/5. The Blue Team Perspective.md",
+    "13. Specialized Domain/4. LLM Pentesting.md",
+    "13. Specialized Domain/3. Cloud Security Fundamentals.md",
+    "13. Specialized Domain/2. Mobile Application Security.md",
+    "13. Specialized Domain/1. Wireless Security.md",
+    "14. Pentesting Methodologies and Reporting/1.  Threat Modeling for Pentesters.md",
+    "14. Pentesting Methodologies and Reporting/2. Planning and Scoping.md",
+    "14. Pentesting Methodologies and Reporting/4. Re-Testing.md",
+    "14. Pentesting Methodologies and Reporting/3. Writing Pentest Reports.md",
+    "6. Web Application Vulnerabilities II/5. API Pentesting.md",
+    "6. Web Application Vulnerabilities II/4. Command Injection.md",
+    "6. Web Application Vulnerabilities II/3. File Inclusion.md",
+    "6. Web Application Vulnerabilities II/2. Broken Authentication.md",
+    "9. Password Attacks/1. Phishing.md",
+    "9. Password Attacks/2. Hydra.md",
+    "9. Password Attacks/3. Wordlists.md",
+    "9. Password Attacks/4. Password Cracking.md",
+    "12. Active Directory Security Testing basics/1. Active Directory Basics.md",
+    "10. Metasploit and Exploitation/5. Shell Payload Generation & Delivery.md",
+    "10. Metasploit and Exploitation/4. Shells & Listeners Fundamentals.md",
+    "10. Metasploit and Exploitation/3. Exploitation and Weaponisation.md",
+    "10. Metasploit and Exploitation/2. Metasploit Payload Generation.md",
+    "10. Metasploit and Exploitation/1. Exploit Chain.md",
+    "8. OWASP/1. Introduction.md",
+    "8. OWASP/2. A01 Broken Access Control.md",
+    "7. Vulnerability Knowledge",
+    "6. Web Application Vulnerabilities II",
+    "5. Web Application Vulnerabilities I/4. Intro to SSRF",
+    "14. Pentesting Methodologies and Reporting",
+    "13. Specialized Domain",
+    "12. Active Directory Security Testing basics",
+    "11. Privilege Escalation",
+    "10. Metasploit and Exploitation",
+    "9. Password Attacks",
+    "8. OWASP",
+    "Untitled.canvas"
+  ]
+}
